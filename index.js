@@ -28,3 +28,4 @@ const mascotas = [
 const edades = mascotas.map(x => x.edad)
 const resultado = suma(edades)
 console.log(resultado / edades.length);
+abcdario
